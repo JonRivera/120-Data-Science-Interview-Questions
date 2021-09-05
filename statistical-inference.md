@@ -1,7 +1,7 @@
 ## Statistical Inference (16 questions)
 
 #### 1. In an A/B test, how can you check if assignment to the various buckets was truly random?
-AB Test definition:  An ab test is a test used to identify which websites performs better. These tests are called single variant tests as they check wheather a cahngein a single "thing" leads to a better performance.
+AB Test definition:  An ab test is a test used to identify which websites performs better. These tests are called single variant tests as they check wheather a change in a single "thing"/variation leads to a better performance on the website.
             
   - Plot the distributions of multiple features for both A and B and make sure that they have the same shape. More rigorously, we can conduct a permutation test to see if the distributions are the same.
   - MANOVA to compare different means
