@@ -5,6 +5,7 @@ AB Test definition:  An ab test is a test used to identify which websites perfor
             
   - Plot the distributions of multiple features for both A and B and make sure that they have the same shape. More rigorously, we can conduct a permutation test to see if the distributions are the same.
   - MANOVA to compare different means
+  - https://www.kdnuggets.com/2017/03/17-data-science-interview-questions-answers-part-3.html/2
 #### 2. What might be the benefits of running an A/A test, where you have two buckets who are exposed to the exact same product?
   - Verify the sampling algorithm is random.
 #### 3. What would be the hazards of letting users sneak a peek at the other bucket in an A/B test?
